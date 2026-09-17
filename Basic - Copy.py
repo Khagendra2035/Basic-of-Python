@@ -1,7 +1,7 @@
 #how to print
 # print("hello there!")
 
-# VARIABLES AND DATA TYPES
+# VARIABLES
 # name= "khagendra"
 # rollno=7
 # weight=52.6
@@ -94,9 +94,41 @@
 # print("Your age is:", age)
 # print("Your marks are:", marks)
 
-#WRITE A PROGRAM TO INPUT 2 NUMBERES AND PRINT THEIR SUM
-#WAP TO INPUT SIDES OF SQUARE AND PRINT AREA
+# #WRITE A PROGRAM TO INPUT 2 NUMBERES AND PRINT THEIR SUM
+# a = int(input("Enter first number: "))
+# b= int(input("Enter second number: "))
+# sum= a + b
+
+# print("the sum of a and b is",sum)
+
+# #WAP TO INPUT SIDES OF SQUARE AND PRINT AREA
+# a = input("enter the value of one side of square:" )
+# b = input("enter the value of another side of that square=")
+# L=int (a)**2
+# print("area of square is=",L)
+
 #WAP TO INPUT LENGTH AND BREADTH OF RECTANGLE AND PRINT AREA
-#WAP TO INPUT 2 FLOAT NUMBERS AND PRINT THEIR AVERAGE
+# L=int(input("Enter the length of the rectangle="))
+# B=int (input("Enter the breadth of the rectangle="))
+# area =2*(L+B)
+# print("the area of rectangle is =",area)
+
+# #WAP TO INPUT 2 FLOAT NUMBERS AND PRINT THEIR AVERAGE
+# a= input("enter the first float number=")
+# b= input("enter the second float number=")
+# c=float(float(a)+float(b))/2
+# print("the average of two float numbers is=",c)
+
 #WAP TO INPUT 2 NUMBERS AND PRINT THEIR PRODUCT
+a = int(input("enter your first number="))
+b=int(input("enter your second number="))
+c=int(a)*int(b)
+print("the product of your numbers is =",c)
+
 #PRINT IF A NUMBER IS GREATER THAN B. IF NOT THEN PRINT B IS GREATER THAN A.
+# a = int(input("enter your first number="))
+# b = int(input("enter your second number="))
+# if a > b:
+#     print(a, "is greater than B", b)
+# else:
+#     print(b, "is greater than ",a)
