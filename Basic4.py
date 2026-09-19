@@ -96,7 +96,19 @@ students={
 # print(collection.pop())
 # print(collection.pop())
 
-set1={1,2,3,4}
-set2={2,3,4,5,6}
-print(set1.union(set2))
-print(set1.intersection(set2))
+# set1={1,2,3,4}
+# set2={2,3,4,5,6}
+# print(set1.union(set2))
+# print(set1.intersection(set2))
+
+##PRACTISE   PRACTISE  PRACTISE
+##store following word meaning in a python dictionary:
+## one=[table:"a piece of furniture", "list of gacts and figures"
+# cat:"a small animal"
+
+# you are given a list pf subjects for students. Assumeone classroom is required for 1 subject. How many classrooms are needed by all students.
+# "python","java","C++","python","javascript","java","python","java","C++","C"]
+
+##WAP to enter marks of 3 subjects from the user and store them in a dictionary.Start with an empty dictionary and add one by one. Use subject name as key and marks as value.
+##Figure out a way to store 9 and 9.0 as a seperate values in the set.
+#(you can take help of built-in data types)
