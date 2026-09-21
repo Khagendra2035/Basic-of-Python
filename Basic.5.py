@@ -157,6 +157,10 @@
 
 
 #PASS STATEMENT
-for i in range(1,50,2):
-    pass
-print("some useful works")
+# for i in range(1,50,2):
+#     pass
+# print("some useful works")
+
+##PRACTISE  PRACTISE
+# WAP to find the summ of first n numbers.(using while)
+#WAP to find the factorial of first n numbers.(using for)
